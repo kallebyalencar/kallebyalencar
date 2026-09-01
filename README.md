@@ -1,4 +1,5 @@
 # 👋 Olá! Eu sou Kalleby Alencar
+
 **`Desenvolvedor Backend`**
 
 Meu nome é Johnny Kalleby Sobreira de Alencar, tenho 19 anos e sou natural de Juazeiro do Norte, Ceará 🇧🇷.
@@ -13,8 +14,6 @@ Meu objetivo é evoluir constantemente como desenvolvedor, unindo fundamentos s�
 [![Views](https://komarev.com/ghpvc/?username=kallebyalencar&label=Views&style=for-the-badge&color=4F5B93&logo=eye)](https://github.com/kallebyalencar)&#8202;
 [![Stars](https://img.shields.io/github/stars/kallebyalencar?style=for-the-badge&label=Stars&logo=star&logoColor=white&color=777BB4)](https://github.com/kallebyalencar?tab=stars)
 [![Repositórios](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkallebyalencar&query=%24.public_repos&label=Repositórios&style=for-the-badge&logo=github&logoColor=white&color=4F5B93)](https://github.com/kallebyalencar?tab=repositories)&#8202;
-
----
 
 
 ## Linguagens e Tecnologias:
@@ -79,8 +78,9 @@ Meu objetivo é evoluir constantemente como desenvolvedor, unindo fundamentos s�
 </div>
 
 <br/>
+<br/>
 
-### 🐍 Minhas Contribuições
+## Minhas Contribuições:
 
 <p align="left">
   <picture>
